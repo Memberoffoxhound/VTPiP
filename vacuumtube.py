@@ -362,7 +362,7 @@ def disable_pause_on_blur():
     return False
 
 
-# ── Pulse/PipeWire volume ─────────────────────────────────────────
+# ── Pulse/PipeWire volume ──────────────────────────────────────────────────
 
 _YT_MATCH = re.compile(r"vacuumtube|rocks\.shy\.vacuumtube", re.I)
 _SKIP_GAME = re.compile(
