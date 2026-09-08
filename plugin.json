@@ -1,0 +1,12 @@
+{
+  "name": "VTPiP",
+  "author": "Memberoffoxhound",
+  "version": "0.9.9b",
+  "api_version": 1,
+  "flags": [],
+  "publish": {
+    "tags": ["youtube", "pip", "overlay", "gamemode", "vacuumtube"],
+    "description": "Watch YouTube in a corner while you play. VacuumTube picture-in-picture for Steam Game Mode.",
+    "image": "https://raw.githubusercontent.com/Memberoffoxhound/VTPiP/main/assets/icon.png"
+  }
+}
